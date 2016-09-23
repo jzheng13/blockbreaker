@@ -2,11 +2,6 @@
 using System.Collections;
 
 public class Paddle : MonoBehaviour {
-
-    // Use this for initialization
-    void Start () {
-        print(this.transform.position.y);
-    }
     
     // Update is called once per frame
     void Update () {
