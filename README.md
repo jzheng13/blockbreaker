@@ -7,7 +7,9 @@ to the [game design document](BlockBreakerGDD.pdf) (provided by course instructo
 
 ## Screenshots
 ![bb1](BlockBreaker/Screenshots/bb1.png)
+
 ![bb2](BlockBreaker/Screenshots/bb2.png)
+
 ![bb3](BlockBreaker/Screenshots/bb3.png)
 
 ## How to run
