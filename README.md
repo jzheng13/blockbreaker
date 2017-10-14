@@ -1,9 +1,12 @@
 # Block Breaker
 
-## About
+## Description
 
-Exercise 3 of Unity course, a take on the classic Breakout game. Please refer
-to the [game design document](BlockBreakerGDD.pdf) (provided by course instructors) for more details.
+A take on the classic Breakout game. This is exercise 3 of the Udemy course [Learn to Code by Making Games](https://www.udemy.com/unitycourse/learn/v4/overview). Please refer
+to the [game design document](BlockBreakerGDD.pdf) provided by the course instructors for more details.
+
+## How to run
+Clone the `Dist` folder, then run the application [BlockBreaker](BlockBreaker/Dist/BlockBreaker.exe), choose graphic settings, and click play!
 
 ## Screenshots
 ![bb1](./BlockBreaker/Screenshots/bb1.PNG)
@@ -11,10 +14,6 @@ to the [game design document](BlockBreakerGDD.pdf) (provided by course instructo
 ![bb2](./BlockBreaker/Screenshots/bb2.PNG)
 
 ![bb3](./BlockBreaker/Screenshots/bb3.PNG)
-
-## How to run
-Run the application [BlockBreaker](BlockBreaker/Dist/BlockBreaker.exe), choose graphic settings, then click play!
-
 
 ## Changelog
 
